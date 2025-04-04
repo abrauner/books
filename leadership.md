@@ -1,0 +1,24 @@
+# Leaderhip
+
+The following list reflects that technical leadership always must be technical. It is of no use, leading a software organization without understanding how modern software is ideated, developed, and shipped. As a cross-functional leadership team, the roles often blend between product, engineering, data and UX. And therefore as a leader in such an organization you better know your way around in more than one area. 
+
+1. [Empowered: Ordinary People, Extraordinary Products](https://www.goodreads.com/book/show/53481975-empowered?from_search=true&from_srp=true&qid=fRlAAd0Qxz&rank=7)  
+2. [Drive: The Surprising Truth About What Motivates Us](https://www.goodreads.com/book/show/6452796-drive)  
+3. [The Engineering Executive's Primer: Impactful Technical Leadership](https://www.goodreads.com/book/show/199699997-the-engineering-executive-s-primer)  
+4. [Thinking In Systems: A Primer](https://www.goodreads.com/book/show/3828902-thinking-in-systems)  
+5. [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/book/show/33369254-the-manager-s-path)  
+6. [The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth](https://www.goodreads.com/book/show/40275161-the-fearless-organization)  
+7. [The Culture Map: Breaking Through the Invisible Boundaries of Global Business](https://www.goodreads.com/book/show/22085568-the-culture-map?ref=nav_sb_ss_1_15)  
+8. [Turn the Ship Around\!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/book/show/16158601-turn-the-ship-around)  
+9. [Radical Focus : Achieving Your Most Important Goals with Objectives and Key Results](https://www.goodreads.com/book/show/28951428-radical-focus)   
+10. [Dynamic Reteaming: The Art and Wisdom of Changing Teams](https://www.goodreads.com/book/show/32853178-dynamic-reteaming)  
+11. [Staff Engineer: Leadership Beyond the Management Track](https://www.goodreads.com/book/show/56481725-staff-engineer)  
+12. [The infinite game \- Simon Sinek](https://www.goodreads.com/book/show/38390751-the-infinite-game)  
+13. [Leadership is Language: The Hidden Power of What You Say \-- and What You Don't](https://www.goodreads.com/book/show/42774083-leadership-is-language)  
+14. [A Radical Enterprise: Pioneering the Future of High-Performing Organizations](https://www.goodreads.com/book/show/59207618-a-radical-enterprise)  
+15. [The Art Of Business Value](https://www.goodreads.com/book/show/29770283-the-art-of-business-value)  
+16. [Measure What Matters](https://www.goodreads.com/book/show/39286958-measure-what-matters)  
+17. [Good Strategy Bad Strategy: The Difference and Why It Matters](https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy)  
+18. [The Lean Startup](https://www.goodreads.com/book/show/10127019-the-lean-startup)  
+19. [Let My People Go Surfing: The Education of a Reluctant Businessman](https://www.goodreads.com/book/show/22155.Let_My_People_Go_Surfing)  
+20. [Holacracy: The New Management System for a Rapidly Changing World](https://www.goodreads.com/book/show/23526564-holacracy)
