@@ -1,7 +1,5 @@
 # Leaderhip
 
-The following list reflects that technical leadership always must be technical. It is of no use, leading a software organization without understanding how modern software is ideated, developed, and shipped. As a cross-functional leadership team, the roles often blend between product, engineering, data and UX. And therefore as a leader in such an organization you better know your way around in more than one area. 
-
 1. [Empowered: Ordinary People, Extraordinary Products](https://www.goodreads.com/book/show/53481975-empowered?from_search=true&from_srp=true&qid=fRlAAd0Qxz&rank=7)  
 2. [Drive: The Surprising Truth About What Motivates Us](https://www.goodreads.com/book/show/6452796-drive)  
 3. [The Engineering Executive's Primer: Impactful Technical Leadership](https://www.goodreads.com/book/show/199699997-the-engineering-executive-s-primer)  
